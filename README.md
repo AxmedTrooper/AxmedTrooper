@@ -1,6 +1,6 @@
 #                                                                                👋 Hi, I’m @AxmedTrooper
 
-##                                                2nd year student at CSE in [Jagannath University,Dhaka,Bangladesh](https://jnu.ac.bd/)
+##                                                2nd year CSE student of  [Jagannath University,Dhaka,Bangladesh](https://jnu.ac.bd/)
 
 
 - 👀 I’m interested in OS Kernel,Mathematics,FOSS software solution...
