@@ -32,7 +32,7 @@
 - Tauri v2
 - Flutter
 - NextJS
--                                                                      
+                                                                      
 
 ##                                                                            🎠 Working Databases
 - MongoDB/Mongoose
