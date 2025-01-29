@@ -58,5 +58,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmedtrooper&show_icons=true&locale=en" alt="axmedtrooper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmedtrooper&" alt="axmedtrooper" /></p>
+
+
+
+
+
+![AxmedTrooper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AxmedTrooper&theme=vue-dark&hide_border=true)
 
